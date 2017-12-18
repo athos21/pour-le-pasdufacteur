@@ -1,3 +1,3 @@
-# pour-le-pasdufacteur
-site association
+# pour-le-PasDuFacteur
+site association de randonnée
 fichiers de base du site
